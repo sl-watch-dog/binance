@@ -23,9 +23,9 @@ def keep_alive():
     t.start()
 
 # --- Your Credentials ---
-API_KEY = "your_binance_api_key"
-API_SECRET = "your_binance_secret"
-PUSHBULLET_TOKEN = "your_pushbullet_token"
+API_KEY = "s9quwQkHDljeEWLJYeexOLSL75XKNqBz9NRA5DPVY7ZDvQZ5RmCqEqJS3nVNlsMf"
+API_SECRET = "nkyGANNffDD8ZmvcZCvJOx3nSgP1MkrqV5dyCORgKiyXZUdYxGLyF2GqjEch5fNl"
+PUSHBULLET_TOKEN = "o.0oL6eH5GJmGUfXb2UFahucsm5y0j8sIQ"
 BINANCE_BASE_URL = "https://fapi.binance.com"
 
 # --- Send Alert ---
